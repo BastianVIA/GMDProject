@@ -3,6 +3,9 @@
 Youtube link: 
 <br />
 
+WebGL: https://bastianvia.github.io/GMDProject_WebGL/
+<br />
+
 Third party assets: <br />
 https://assetstore.unity.com/packages/2d/gui/icons/rpg-inventory-icons-56687 <br />
 https://assetstore.unity.com/packages/audio/sound-fx/intergalactic-portal-89506 <br />
